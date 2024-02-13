@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test name="PracticeTest">
+        <classes>
+            <class name="com.company.globant.tests.Make_find_test" />
+            <class name="com.company.globant.tests.ChangePageTest" />
+        </classes>
+    </test>
+</suite>
