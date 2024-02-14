@@ -1,1 +1,0 @@
-{"uuid":"d4d9e6d1-1f56-4621-966b-8c0ae1dda2f1","name":"TecnoMegaStore_Testing","children":["c875bac8-e3ea-4c84-b35a-042e1440183f"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1707686048675,"stop":1707686048819}],"start":1707686044533,"stop":1707686048819}
